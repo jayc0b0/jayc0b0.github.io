@@ -9,7 +9,7 @@ Things are going pretty good as far as setting up this blog. I decided to hop on
 So, in no particular order, here's what I need to do for this blog in the relatively close future:
 
 # The Grand List of THINGS TO DO:
-~~1. Ensure the Sitemap is functional~~
+1. ~~Ensure the Sitemap is functional~~
 2. Add a resume page
 3. Make things look better (the blog as it stands _is_ pretty ugly)
 4. Keep up on posting here. Talk about things I'm working on, developments in my life, etc...
