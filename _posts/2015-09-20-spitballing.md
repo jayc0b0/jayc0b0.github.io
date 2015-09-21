@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 name: Spitballing
 date: 2015-09-20
 ---
