@@ -10,9 +10,9 @@ As far as other things go, I'll definitely leave some time for people to talk an
 
 Anyway, I guess I'd better get to the "meat" of this meetup. (Damn it, there I go again. I swear, I can't control this stuff. It just happens.) Here's a rough layout of how I want to do things:
 
-<em>* Socializing while waiting for people to show up</em>
-<em>* Diving into some programming problems</em>
-<em>* Possible discussion topic</em>
-<em>* General talking and collaborating until people leave</em>
+<p><em>* Socializing while waiting for people to show up</em></p>
+<p><em>* Diving into some programming problems</em></p>
+<p><em>* Possible discussion topic</em></p>
+<p><em>* General talking and collaborating until people leave</em></p>
 
 So yeah... Pretty simple I guess. Now to see if I can get this to work in practice.
