@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 name: Things to Work On
 date: 2015-09-20
 ---
