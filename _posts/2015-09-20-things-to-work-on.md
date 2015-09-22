@@ -10,7 +10,7 @@ So, in no particular order, here's what I need to do for this blog in the relati
 
 # The Grand List of THINGS TO DO:
 1. <strike>Ensure the Sitemap is functional</strike>
-2. Add a resume page
+2. <strike>Add a resume page</strike>
 3. Make things look better (the blog as it stands _is_ pretty ugly)
 4. Keep up on posting here. Talk about things I'm working on, developments in my life, etc...
 5. Get people to read this
