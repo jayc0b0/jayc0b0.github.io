@@ -1,0 +1,11 @@
+---
+layout: default
+name: Updates
+date: 2015-11-13
+---
+
+Sorry I've been away for a while. Things have been crazy. Got a new job (which is going pretty well), been doing well in my classes (Calc 2 is so much easier with a decent professor and a little drive.), and my roommates are, well, being roommates (which is to say that things are completely crazy).
+
+I've been working on learning as much as I can about security. I got a Kali live USB with persistence up and running, so I can keep working on things, even when I'm away from my main machine. And on that front, I recently started working on making my Raspberry Pi into an intentionally vulnerable LAMP server, with FTP, among other services. This is due to the fact that in my searching for a suitable distro for the job, I didn't find anything made for ARM processors relating to security research other than a handful of pentesting toolkits. So I went and found a minimal, unattended Raspbian image. (Right here: (excellent repo) https://github.com/debian-pi/raspbian-ua-netinst). Then, I SSH'd in and got to installing all the LAMP stuff. Next up, I plan on running DVWA, Wordpress, and some other vulnerable webapps, as well as making things intentionally vulnerable (weak passwords, things that shouldn't be open, etc). If all goes well, I'll probably end up putting it out as an image (either fork it from that repo or learn how to do that on my own).
+
+Anyway, I'm going to get going, but I'll definitely be posting more as things move along.
