@@ -1,6 +1,7 @@
 body {
   margin: 60px auto;
   width: 70%;
+  background: 'http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/footer_lodyas.png';
 }
 nav ul, footer ul {
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
