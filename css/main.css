@@ -19,6 +19,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+div.content {
+  bakckground: 'http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/crossword.png';
+}
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
