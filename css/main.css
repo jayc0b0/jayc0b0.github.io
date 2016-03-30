@@ -21,7 +21,7 @@ a:hover {
   text-decoration: underline;
 }
 .content {
-  bakckground-image: url('http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/crossword.png');
+  bakckground: url('http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/crossword.png');
 }
 h1 {
   font-size: 3em;
