@@ -1,7 +1,7 @@
 body {
   margin: 60px auto;
   width: 70%;
-  background: url('http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/footer_lodyas.png');
+  background: url('http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/crossword.png');
 }
 nav ul, footer ul {
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -21,7 +21,6 @@ a:hover {
   text-decoration: underline;
 }
 .content {
-  background: url('http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/crossword.png');
 }
 h1 {
   font-size: 3em;
